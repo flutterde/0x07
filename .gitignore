@@ -7,6 +7,12 @@
 *.o
 *.obj
 
+ex00/app
+ex01/iter
+ex02/array
+*.txt
+
+.vscode
 # Precompiled Headers
 *.gch
 *.pch
