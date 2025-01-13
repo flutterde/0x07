@@ -12,7 +12,9 @@ ex01/iter
 ex02/array
 *.txt
 
+ts
 .vscode
+tx.cpp
 # Precompiled Headers
 *.gch
 *.pch
